@@ -1,7 +1,3 @@
-Here is the updated `README.md` with the additional information about using a pushbutton and potentiometer with ADC, which are read through the serial interface on a PC:
-
----
-
 # RTOS-Based Program for STM32F1
 
 This project is an RTOS-based firmware designed for the STM32F1 series microcontroller. It uses the CMSIS-RTOS and HAL libraries for managing tasks, peripherals, and hardware abstraction. The program includes functionality to read inputs from a pushbutton and a potentiometer (via ADC) and send data to a PC through the serial interface.
