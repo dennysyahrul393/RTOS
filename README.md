@@ -2,7 +2,7 @@
 
 This project is an RTOS-based firmware designed for the STM32F1 series microcontroller. It uses the CMSIS-RTOS and HAL libraries for managing tasks, peripherals, and hardware abstraction. The program includes functionality to read inputs from a pushbutton and a potentiometer (via ADC) and send data to a PC through the serial interface.
 
-https://github.com/dennysyahrul393/RTOS/issues/1#issue-2588567143
+[https://github.com/dennysyahrul393/RTOS/issues/1#issue-2588567143](https://github.com/user-attachments/assets/e6b1eea9-81e5-47cf-9426-f17d77986757)
 
 ## Features
 - **FreeRTOS**: A real-time operating system to manage multiple tasks.
